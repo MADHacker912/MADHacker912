@@ -181,7 +181,7 @@ Looking for talented team members to bring my vision to life. Let's collaborate 
 
 ## 💡 About Me
 
-- 🎓 **Age:** 16 years old
+- 🎓 **Age:** 17 years old
 - 💻 **Passion:** Full-stack development & CyberSecurity
 - 🎮 **Hobbies:** Game development, Coding challenges, Problem-solving
 - 🌟 **Philosophy:** "Vibe Coder" - I believe in learning by doing!
