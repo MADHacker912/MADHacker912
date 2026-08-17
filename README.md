@@ -8,7 +8,7 @@
 
 <div align="center">
 
-### 🎯 A 16-year-old developer with big dreams and ambitious projects!
+### 🎯 A 17-year-old developer with big dreams and ambitious projects!
 
 Looking for talented team members to bring my vision to life. Let's collaborate and build something amazing! 🌟
 
@@ -36,10 +36,7 @@ Looking for talented team members to bring my vision to life. Let's collaborate 
 
 ## 🎯 Current Focus
 
-| 🔭 | 🌱 | 👯 | 🤝 |
-|----|----|----|----|
-| **Working On** | **Learning** | **Collaborating** | **Need Help** |
-| [SewaApp](https://sewaapp.netlify.app) | C Language | [SewaApp](https://sewaapp.netlify.app) | [SewaApp](https://sewaapp.netlify.app) |
+#MJ-AI
 
 ---
 
@@ -154,8 +151,8 @@ Looking for talented team members to bring my vision to life. Let's collaborate 
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/saksham_gupta)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saksham-gupta-9125obito)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_obito_gupta_)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/sakshsmgupta0405_79931)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_vibecoder)
+[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/_obito_gupta_)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/saksham_gupta)
 
 </div>
@@ -191,8 +188,8 @@ Looking for talented team members to bring my vision to life. Let's collaborate 
 
 ## 🎁 Portfolio
 
-- 🌐 **Projects Portfolio:** [saksham9125.netlify.app](https://saksham9125.netlify.app)
-- 📱 **Current Project:** [SewaApp](https://sewaapp.netlify.app)
+- 🌐 **Projects Portfolio:** [sakshamgupta.online](https://sakshamgupta.online)
+- 📱 **Current Project:** [MJ]
 
 ---
 
