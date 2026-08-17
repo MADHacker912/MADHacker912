@@ -36,7 +36,7 @@ Looking for talented team members to bring my vision to life. Let's collaborate 
 
 ## 🎯 Current Focus
 
-#MJ-AI
+##MJ-AI
 
 ---
 
