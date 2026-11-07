@@ -1,54 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 68" width="100%" height="68">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 80" width="100%" height="80">
   <defs>
     <filter id="fShadow" x="-30%" y="-30%" width="160%" height="160%">
-      <feDropShadow dx="1" dy="1" stdDeviation="1.5" flood-color="#000" flood-opacity="0.5"/>
+      <feDropShadow dx="1" dy="2" stdDeviation="2" flood-color="#000" flood-opacity="0.6"/>
     </filter>
   </defs>
 
   <style>
     @keyframes btnPulse {
       0%, 100% { transform: scale(1); }
-      50% { transform: scale(1.02); }
+      50% { transform: scale(1.03); filter: drop-shadow(0 0 8px rgba(13, 153, 255, 0.6)); }
     }
     @keyframes curClick {
-      0%, 100% { transform: translate(0, 0); }
-      50% { transform: translate(-3px, 2px); }
+      0%, 100% { transform: translate(525px, 24px); }
+      50% { transform: translate(520px, 28px); }
     }
+    @keyframes cur2Float {
+      0%, 100% { transform: translate(320px, 32px); }
+      50% { transform: translate(340px, 25px); }
+    }
+    @keyframes cur3Float {
+      0%, 100% { transform: translate(720px, 30px); }
+      50% { transform: translate(690px, 38px); }
+    }
+    @keyframes ripple {
+      0% { r: 0px; opacity: 1; }
+      100% { r: 35px; opacity: 0; }
+    }
+
     .live-btn {
-      transform-origin: 460px 34px;
+      transform-origin: 460px 40px;
       animation: btnPulse 3s ease-in-out infinite;
     }
-    .click-cur {
-      animation: curClick 2.5s ease-in-out infinite;
-    }
-    .mono {
-      font-family: 'SF Mono', 'Fira Code', monospace;
-    }
+    .click-cur { animation: curClick 3s ease-in-out infinite; }
+    .f-cur2 { animation: cur2Float 4.5s ease-in-out infinite; }
+    .f-cur3 { animation: cur3Float 4s ease-in-out infinite; }
+    .btn-ripple { animation: ripple 3s ease-out infinite; }
+    .mono { font-family: 'SF Mono', 'Fira Code', monospace; }
+    .tag-font { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 9px; font-weight: 700; fill: #FFFFFF; }
   </style>
 
-  <!-- Background Base -->
-  <rect x="2" y="2" width="916" height="64" rx="8" fill="#0B0F17" stroke="#1E293B" stroke-width="1.2"/>
+  <!-- Base Canvas Box -->
+  <rect x="2" y="2" width="916" height="76" rx="8" fill="#0B0F17" stroke="#1E293B" stroke-width="1.2"/>
 
-  <!-- Centered "Go Live" Button (The signature Swarm Rebuild ending action!) -->
-  <g class="live-btn">
-    <rect x="360" y="16" width="200" height="36" rx="6" fill="#0D99FF" stroke="#38BDF8" stroke-width="1"/>
-    <text x="460" y="39" text-anchor="middle" class="mono" font-size="13" font-weight="700" fill="#FFFFFF">⚡ GO LIVE // REPLAY</text>
-  </g>
-
-  <!-- Left Canvas Meta -->
-  <text x="40" y="40" class="mono" font-size="10" fill="#64748B">
-    <tspan fill="#0ACF83">● 100% ASSEMBLED</tspan>  |  SWARM AGENTS: 18
+  <!-- Left Stats -->
+  <text x="36" y="44" class="mono" font-size="10" fill="#64748B">
+    <tspan fill="#0ACF83">● 100% ASSEMBLED</tspan>  |  SWARM: 18 AGENTS
   </text>
 
+  <!-- Centered Interactive "Go Live // Replay" Action Button -->
+  <g class="live-btn">
+    <circle cx="460" cy="40" r="0" fill="none" stroke="#0D99FF" stroke-width="2" class="btn-ripple"/>
+    <rect x="350" y="20" width="220" height="40" rx="6" fill="#0D99FF" stroke="#38BDF8" stroke-width="1.2"/>
+    <text x="460" y="45" text-anchor="middle" class="mono" font-size="13" font-weight="800" fill="#FFFFFF">⚡ GO LIVE // REPLAY</text>
+  </g>
+
   <!-- Right Motto -->
-  <text x="880" y="40" text-anchor="end" class="mono" font-size="10" fill="#64748B">
+  <text x="884" y="44" text-anchor="end" class="mono" font-size="10" fill="#64748B">
     LEARN BY DECONSTRUCTING • MASTER BY BUILDING
   </text>
 
-  <!-- Swarm Cursor: Alan (#FFC700 Yellow) clicking the Go Live button -->
-  <g class="click-cur" transform="translate(535, 26)" filter="url(#fShadow)">
-    <path d="M4.6 3.9 C4.2 3.1 4.9 2.4 5.7 2.8 L20.6 9.4 C21.5 9.8 21.4 11.1 20.4 11.3 L13.9 12.9 C13.4 13 13 13.4 12.9 13.9 L11.3 20.4 C11.1 21.4 9.8 21.5 9.4 20.6 Z" fill="#FFC700" stroke="#FFFFFF" stroke-width="1.5" stroke-linejoin="round"/>
-    <rect x="18" y="14" width="38" height="16" rx="3" fill="#FFC700"/>
-    <text x="23" y="26" font-family="-apple-system, sans-serif" font-size="9" font-weight="600" fill="#000000">Alan</text>
+  <!-- Cursors converging on the Go Live action -->
+  <!-- Cursor Alan (#FFC700 Yellow) clicking the button -->
+  <g class="click-cur" filter="url(#fShadow)">
+    <path d="M4.6 3.9 C4.2 3.1 4.9 2.4 5.7 2.8 L20.6 9.4 C21.5 9.8 21.4 11.1 20.4 11.3 L13.9 12.9 C13.4 13 13 13.4 12.9 13.9 L11.3 20.4 C11.1 21.4 9.8 21.5 9.4 20.6 Z" fill="#FFC700" stroke="#FFF" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="16" y="14" width="38" height="16" rx="3" fill="#FFC700"/>
+    <text x="22" y="25" class="tag-font" fill="#000">Alan</text>
+  </g>
+
+  <!-- Cursor Ada (#A259FF Purple) approaching from left -->
+  <g class="f-cur2" filter="url(#fShadow)">
+    <path d="M4.6 3.9 C4.2 3.1 4.9 2.4 5.7 2.8 L20.6 9.4 C21.5 9.8 21.4 11.1 20.4 11.3 L13.9 12.9 C13.4 13 13 13.4 12.9 13.9 L11.3 20.4 C11.1 21.4 9.8 21.5 9.4 20.6 Z" fill="#A259FF" stroke="#FFF" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="16" y="14" width="34" height="16" rx="3" fill="#A259FF"/>
+    <text x="21" y="25" class="tag-font">Ada</text>
+  </g>
+
+  <!-- Cursor Linus (#0ACF83 Green) approaching from right -->
+  <g class="f-cur3" filter="url(#fShadow)">
+    <path d="M4.6 3.9 C4.2 3.1 4.9 2.4 5.7 2.8 L20.6 9.4 C21.5 9.8 21.4 11.1 20.4 11.3 L13.9 12.9 C13.4 13 13 13.4 12.9 13.9 L11.3 20.4 C11.1 21.4 9.8 21.5 9.4 20.6 Z" fill="#0ACF83" stroke="#FFF" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="16" y="14" width="42" height="16" rx="3" fill="#0ACF83"/>
+    <text x="21" y="25" class="tag-font">Linus</text>
   </g>
 </svg>

@@ -1,0 +1,273 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 280" width="100%" height="280">
+  <defs>
+    <!-- Background Canvas -->
+    <radialGradient id="canvasBg" cx="50%" cy="30%" r="75%">
+      <stop offset="0%" stop-color="#161F36"/>
+      <stop offset="60%" stop-color="#0B0F19"/>
+      <stop offset="100%" stop-color="#05080E"/>
+    </radialGradient>
+
+    <!-- Figma Style Dot Grid -->
+    <pattern id="dotPattern" x="0" y="0" width="20" height="20" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1" fill="#334155" opacity="0.4"/>
+    </pattern>
+
+    <!-- Headline Gradient -->
+    <linearGradient id="heroTextGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="50%" stop-color="#F8FAFC"/>
+      <stop offset="100%" stop-color="#38BDF8"/>
+    </linearGradient>
+
+    <!-- Pink Smart Guide Gradient -->
+    <linearGradient id="pinkGuideLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF3366" stop-opacity="0.2"/>
+      <stop offset="50%" stop-color="#FF3366" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#FF3366" stop-opacity="0.2"/>
+    </linearGradient>
+
+    <!-- Drop Shadows -->
+    <filter id="curShadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="1" dy="2" stdDeviation="2" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <style>
+    /* Swarm Multiplayer Cursors Flight Dynamics */
+    @keyframes c1Fly {
+      0%, 100% { transform: translate(515px, 68px); }
+      25% { transform: translate(545px, 52px); }
+      50% { transform: translate(485px, 88px); }
+      75% { transform: translate(525px, 105px); }
+    }
+    @keyframes c2Fly {
+      0%, 100% { transform: translate(740px, 120px); }
+      30% { transform: translate(690px, 95px); }
+      70% { transform: translate(770px, 145px); }
+    }
+    @keyframes c3Fly {
+      0%, 100% { transform: translate(320px, 150px); }
+      35% { transform: translate(370px, 170px); }
+      75% { transform: translate(270px, 135px); }
+    }
+    @keyframes c4Fly {
+      0%, 100% { transform: translate(760px, 215px); }
+      40% { transform: translate(710px, 195px); }
+      80% { transform: translate(790px, 230px); }
+    }
+    @keyframes c5Fly {
+      0%, 100% { transform: translate(160px, 78px); }
+      30% { transform: translate(200px, 108px); }
+      70% { transform: translate(130px, 60px); }
+    }
+
+    /* Selection Box & Marching Ants */
+    @keyframes marchAnts {
+      to { stroke-dashoffset: -16; }
+    }
+    @keyframes boxBreathe {
+      0%, 100% { width: 500px; }
+      50% { width: 512px; }
+    }
+
+    /* Caret & Ripple */
+    @keyframes caretBlink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @keyframes guidePulse {
+      0%, 100% { opacity: 0.5; }
+      50% { opacity: 1; filter: drop-shadow(0 0 5px #FF3366); }
+    }
+    @keyframes clickRipple {
+      0% { r: 0px; opacity: 1; }
+      100% { r: 24px; opacity: 0; }
+    }
+
+    .c1 { animation: c1Fly 7s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
+    .c2 { animation: c2Fly 8s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
+    .c3 { animation: c3Fly 6.5s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
+    .c4 { animation: c4Fly 7.5s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
+    .c5 { animation: c5Fly 6s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
+
+    .marching-box { stroke-dasharray: 4, 4; animation: marchAnts 0.8s linear infinite; }
+    .caret-bar { animation: caretBlink 0.9s infinite; }
+    .guide-glow { animation: guidePulse 2.2s ease-in-out infinite; }
+    .click-ring { animation: clickRipple 2.5s ease-out infinite; }
+
+    .ruler-mono { font-family: 'SF Mono', 'Fira Code', monospace; font-size: 8px; fill: #64748B; }
+    .cursor-pill { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 10px; font-weight: 700; fill: #FFFFFF; }
+    .mono-code { font-family: 'SF Mono', 'Fira Code', monospace; }
+  </style>
+
+  <!-- Canvas Background -->
+  <rect x="2" y="2" width="916" height="276" rx="12" fill="url(#canvasBg)"/>
+  <rect x="22" y="22" width="894" height="254" fill="url(#dotPattern)"/>
+  <rect x="2" y="2" width="916" height="276" rx="12" fill="none" stroke="#1E293B" stroke-width="1.5"/>
+
+  <!-- Top Ruler Rail -->
+  <rect x="2" y="2" width="916" height="20" fill="#0B0F17" stroke="#1E293B" stroke-width="1"/>
+  <g stroke="#334155" stroke-width="1">
+    <line x1="100" y1="12" x2="100" y2="20"/>
+    <line x1="200" y1="12" x2="200" y2="20"/>
+    <line x1="300" y1="12" x2="300" y2="20"/>
+    <line x1="400" y1="12" x2="400" y2="20"/>
+    <line x1="500" y1="12" x2="500" y2="20"/>
+    <line x1="600" y1="12" x2="600" y2="20"/>
+    <line x1="700" y1="12" x2="700" y2="20"/>
+    <line x1="800" y1="12" x2="800" y2="20"/>
+    <line x1="900" y1="12" x2="900" y2="20"/>
+  </g>
+  <text x="102" y="11" class="ruler-mono">100</text>
+  <text x="202" y="11" class="ruler-mono">200</text>
+  <text x="302" y="11" class="ruler-mono">300</text>
+  <text x="402" y="11" class="ruler-mono">400</text>
+  <text x="502" y="11" class="ruler-mono">500</text>
+  <text x="602" y="11" class="ruler-mono">600</text>
+  <text x="702" y="11" class="ruler-mono">700</text>
+  <text x="802" y="11" class="ruler-mono">800</text>
+
+  <!-- Left Ruler Rail -->
+  <rect x="2" y="2" width="20" height="276" fill="#0B0F17" stroke="#1E293B" stroke-width="1"/>
+  <g stroke="#334155" stroke-width="1">
+    <line x1="12" y1="60" x2="20" y2="60"/>
+    <line x1="12" y1="120" x2="20" y2="120"/>
+    <line x1="12" y1="180" x2="20" y2="180"/>
+    <line x1="12" y1="240" x2="20" y2="240"/>
+  </g>
+  <text x="3" y="64" class="ruler-mono">60</text>
+  <text x="3" y="124" class="ruler-mono">120</text>
+  <text x="3" y="184" class="ruler-mono">180</text>
+  <text x="3" y="244" class="ruler-mono">240</text>
+  <rect x="2" y="2" width="20" height="20" fill="#1E293B"/>
+
+  <!-- Figma Style Top Toolbar -->
+  <g transform="translate(42, 32)">
+    <rect x="0" y="0" width="260" height="24" rx="5" fill="#0F172A" stroke="#334155" stroke-width="1"/>
+    <!-- Status Dot -->
+    <circle cx="12" cy="12" r="4" fill="#0ACF83"/>
+    <text x="24" y="16" class="mono-code" font-size="10" font-weight="700" fill="#00F0FF">SWARM CANVAS // REBUILD LIVE</text>
+    <rect x="200" y="4" width="52" height="16" rx="3" fill="#1E293B"/>
+    <text x="210" y="15" class="mono-code" font-size="9" fill="#38BDF8">60 FPS</text>
+  </g>
+
+  <!-- Multiplayer Presences on Canvas (Top Right) -->
+  <g transform="translate(710, 32)">
+    <!-- Presence Pills -->
+    <circle cx="10" cy="12" r="10" fill="#0D99FF" stroke="#0B0F17" stroke-width="2"/>
+    <text x="10" y="15" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="8" font-weight="bold" fill="#FFF">SG</text>
+    <circle cx="28" cy="12" r="10" fill="#0ACF83" stroke="#0B0F17" stroke-width="2"/>
+    <text x="28" y="15" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="8" font-weight="bold" fill="#FFF">LP</text>
+    <circle cx="46" cy="12" r="10" fill="#A259FF" stroke="#0B0F17" stroke-width="2"/>
+    <text x="46" y="15" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="8" font-weight="bold" fill="#FFF">AL</text>
+    <circle cx="64" cy="12" r="10" fill="#F24E1E" stroke="#0B0F17" stroke-width="2"/>
+    <text x="64" y="15" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="8" font-weight="bold" fill="#FFF">OB</text>
+    <rect x="80" y="3" width="70" height="18" rx="9" fill="#1E293B" stroke="#334155" stroke-width="1"/>
+    <text x="115" y="15" text-anchor="middle" class="mono-code" font-size="9" fill="#94A3B8">+14 SWARM</text>
+  </g>
+
+  <!-- ACTIVE SELECTION BOX AROUND HEADLINE -->
+  <g>
+    <!-- Dashed Bounding Box -->
+    <rect x="42" y="72" width="500" height="58" rx="2" fill="rgba(13, 153, 255, 0.06)" stroke="#0D99FF" stroke-width="1.4" class="marching-box"/>
+    <!-- 8 Transform Handles -->
+    <rect x="39" y="69" width="6" height="6" fill="#FFFFFF" stroke="#0D99FF" stroke-width="1.2"/>
+    <rect x="289" y="69" width="6" height="6" fill="#FFFFFF" stroke="#0D99FF" stroke-width="1.2"/>
+    <rect x="539" y="69" width="6" height="6" fill="#FFFFFF" stroke="#0D99FF" stroke-width="1.2"/>
+    <rect x="39" y="98" width="6" height="6" fill="#FFFFFF" stroke="#0D99FF" stroke-width="1.2"/>
+    <rect x="539" y="98" width="6" height="6" fill="#FFFFFF" stroke="#0D99FF" stroke-width="1.2"/>
+    <rect x="39" y="127" width="6" height="6" fill="#FFFFFF" stroke="#0D99FF" stroke-width="1.2"/>
+    <rect x="289" y="127" width="6" height="6" fill="#FFFFFF" stroke="#0D99FF" stroke-width="1.2"/>
+    <rect x="539" y="127" width="6" height="6" fill="#FFFFFF" stroke="#0D99FF" stroke-width="1.2"/>
+
+    <!-- Dimension Pill (Swarm Size Badge) -->
+    <rect x="254" y="55" width="76" height="16" rx="3" fill="#0D99FF"/>
+    <text x="292" y="67" text-anchor="middle" class="mono-code" font-size="9" font-weight="700" fill="#FFFFFF">500 × 58 px</text>
+  </g>
+
+  <!-- Primary Headline Name -->
+  <text x="56" y="114" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="40" font-weight="800" letter-spacing="3px" fill="url(#heroTextGrad)">SAKSHAM GUPTA</text>
+
+  <!-- Right Component Wireframe Frame (Swarm Drawing in Action) -->
+  <g transform="translate(580, 72)">
+    <rect x="0" y="0" width="300" height="82" rx="6" fill="rgba(15, 23, 42, 0.6)" stroke="#0ACF83" stroke-width="1.2" stroke-dasharray="4,4"/>
+    <rect x="12" y="10" width="84" height="14" rx="3" fill="#0ACF83" opacity="0.2"/>
+    <text x="16" y="21" class="mono-code" font-size="8" font-weight="bold" fill="#0ACF83">CORE_AGENT_HUD</text>
+    <text x="12" y="42" font-family="-apple-system, sans-serif" font-size="13" font-weight="700" fill="#F8FAFC">Autonomous Browser Engine</text>
+    <text x="12" y="62" class="mono-code" font-size="10" fill="#94A3B8">Live Stream: http://localhost:7654</text>
+    <!-- Size Callout -->
+    <rect x="220" y="-8" width="70" height="16" rx="3" fill="#0ACF83"/>
+    <text x="255" y="4" text-anchor="middle" class="mono-code" font-size="8" font-weight="bold" fill="#06090E">300 × 82 px</text>
+  </g>
+
+  <!-- Subtitle with Typing Caret -->
+  <text x="56" y="156" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="15" font-weight="500" fill="#94A3B8">
+    <tspan fill="#38BDF8">Full-Stack Systems Architect</tspan>
+    <tspan fill="#475569">  •  </tspan>
+    <tspan fill="#F1F5F9">CyberSecurity Researcher</tspan>
+    <tspan fill="#475569">  •  </tspan>
+    <tspan fill="#A259FF">Autonomous AI Builder</tspan>
+  </text>
+  <!-- Blinking Caret on Subtitle -->
+  <line x1="590" y1="143" x2="590" y2="158" stroke="#0D99FF" stroke-width="2.2" class="caret-bar"/>
+
+  <!-- Smart Pink Guide Line across Canvas -->
+  <line x1="42" y1="174" x2="880" y2="174" stroke="url(#pinkGuideLine)" stroke-width="1.2" stroke-dasharray="3,3" class="guide-glow"/>
+  <rect x="440" y="166" width="48" height="16" rx="3" fill="#FF3366"/>
+  <text x="464" y="178" text-anchor="middle" class="mono-code" font-size="9" font-weight="bold" fill="#FFFFFF">← 16 →</text>
+
+  <!-- Row 1: Focus Specs (y=206) -->
+  <text x="56" y="206" class="mono-code" font-size="11" fill="#64748B">
+    <tspan fill="#0ACF83" font-weight="700">MISSION:</tspan> Autonomous Browser Agents • AST Vulnerability Research • Linux Systems
+  </text>
+
+  <!-- Row 2: Arsenal & Live Portfolio (y=236) -->
+  <text x="56" y="236" class="mono-code" font-size="11" fill="#64748B">
+    <tspan fill="#A259FF" font-weight="700">ARSENAL:</tspan> Rust • Python • TypeScript • C/C++ • Chromium Daemons • Playwright
+  </text>
+  <text x="880" y="236" text-anchor="end" class="mono-code" font-size="11" fill="#64748B">
+    <tspan fill="#0D99FF" font-weight="700">CANVAS:</tspan> <tspan fill="#38BDF8">sakshamgupta.online</tspan>
+  </text>
+
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  <!--           ANIMATED MULTIPLAYER SWARM CURSORS                -->
+  <!-- ═══════════════════════════════════════════════════════════ -->
+
+  <!-- CURSOR 1: MADHacker (#0D99FF Blue) -->
+  <g class="c1" filter="url(#curShadow)">
+    <circle cx="5" cy="4" r="0" fill="none" stroke="#0D99FF" stroke-width="2" class="click-ring"/>
+    <path d="M4.6 3.9 C4.2 3.1 4.9 2.4 5.7 2.8 L20.6 9.4 C21.5 9.8 21.4 11.1 20.4 11.3 L13.9 12.9 C13.4 13 13 13.4 12.9 13.9 L11.3 20.4 C11.1 21.4 9.8 21.5 9.4 20.6 Z" fill="#0D99FF" stroke="#FFFFFF" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="18" y="16" width="78" height="18" rx="4" fill="#0D99FF"/>
+    <text x="24" y="29" class="cursor-pill">MADHacker</text>
+  </g>
+
+  <!-- CURSOR 2: Linus (#0ACF83 Green) -->
+  <g class="c2" filter="url(#curShadow)">
+    <circle cx="5" cy="4" r="0" fill="none" stroke="#0ACF83" stroke-width="2" class="click-ring" style="animation-delay: 1.2s"/>
+    <path d="M4.6 3.9 C4.2 3.1 4.9 2.4 5.7 2.8 L20.6 9.4 C21.5 9.8 21.4 11.1 20.4 11.3 L13.9 12.9 C13.4 13 13 13.4 12.9 13.9 L11.3 20.4 C11.1 21.4 9.8 21.5 9.4 20.6 Z" fill="#0ACF83" stroke="#FFFFFF" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="18" y="16" width="48" height="18" rx="4" fill="#0ACF83"/>
+    <text x="24" y="29" class="cursor-pill">Linus</text>
+  </g>
+
+  <!-- CURSOR 3: Ada (#A259FF Purple) -->
+  <g class="c3" filter="url(#curShadow)">
+    <path d="M4.6 3.9 C4.2 3.1 4.9 2.4 5.7 2.8 L20.6 9.4 C21.5 9.8 21.4 11.1 20.4 11.3 L13.9 12.9 C13.4 13 13 13.4 12.9 13.9 L11.3 20.4 C11.1 21.4 9.8 21.5 9.4 20.6 Z" fill="#A259FF" stroke="#FFFFFF" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="18" y="16" width="38" height="18" rx="4" fill="#A259FF"/>
+    <text x="24" y="29" class="cursor-pill">Ada</text>
+  </g>
+
+  <!-- CURSOR 4: Obito (#F24E1E Red) -->
+  <g class="c4" filter="url(#curShadow)">
+    <circle cx="5" cy="4" r="0" fill="none" stroke="#F24E1E" stroke-width="2" class="click-ring" style="animation-delay: 2s"/>
+    <path d="M4.6 3.9 C4.2 3.1 4.9 2.4 5.7 2.8 L20.6 9.4 C21.5 9.8 21.4 11.1 20.4 11.3 L13.9 12.9 C13.4 13 13 13.4 12.9 13.9 L11.3 20.4 C11.1 21.4 9.8 21.5 9.4 20.6 Z" fill="#F24E1E" stroke="#FFFFFF" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="18" y="16" width="46" height="18" rx="4" fill="#F24E1E"/>
+    <text x="24" y="29" class="cursor-pill">Obito</text>
+  </g>
+
+  <!-- CURSOR 5: Grace (#FFC700 Amber) -->
+  <g class="c5" filter="url(#curShadow)">
+    <path d="M4.6 3.9 C4.2 3.1 4.9 2.4 5.7 2.8 L20.6 9.4 C21.5 9.8 21.4 11.1 20.4 11.3 L13.9 12.9 C13.4 13 13 13.4 12.9 13.9 L11.3 20.4 C11.1 21.4 9.8 21.5 9.4 20.6 Z" fill="#FFC700" stroke="#FFFFFF" stroke-width="1.5" stroke-linejoin="round"/>
+    <rect x="18" y="16" width="50" height="18" rx="4" fill="#FFC700"/>
+    <text x="24" y="29" class="cursor-pill" fill="#000">Grace</text>
+  </g>
+</svg>

@@ -1,21 +1,21 @@
 <div align="center">
 
 <!-- ================================================================= -->
-<!--                    SWARM REBUILD // HERO CANVAS                   -->
+<!--               SWARM REBUILD // HERO CANVAS ASSEMBLY               -->
 <!-- ================================================================= -->
 
 <a href="https://sakshamgupta.online" target="_blank">
-  <img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/swarm-rebuild-hero.svg" width="100%" alt="Swarm Rebuild Hero" />
+  <img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/swarm-hero.svg" width="100%" alt="Swarm Rebuild Hero" />
 </a>
 
 <br/>
 
-<!-- Smart Guide Canvas Divider -->
-<img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/swarm-divider.svg" width="100%" alt="Canvas Guide" />
+<!-- Canvas Smart Guide Divider -->
+<img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/swarm-divider.svg" width="100%" alt="Canvas Snap Guide" />
 
 <!-- Dynamic Typing Subtitle -->
 <a href="https://sakshamgupta.online">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&width=800&height=44&lines=%E2%96%B6+Swarm+Active%3A+Rebuilding+Autonomous+Agents+%26+Security+Engines;%E2%96%B6+Author+of+agent-live-browser%2C+vault-scanner+%26+MJ-X;%E2%96%B6+Building+Zero-Dependency+Scanners+%26+Chromium+Daemons;%E2%96%B6+Vibe+Coder+%7C+Learning+by+Deconstructing%2C+Mastering+by+Building" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&width=820&height=44&lines=%E2%96%B6+Swarm+Active%3A+Rebuilding+Autonomous+Agents+%26+Security+Engines;%E2%96%B6+Author+of+agent-live-browser%2C+vault-scanner+%26+MJ-X;%E2%96%B6+Building+Zero-Dependency+Scanners+%26+Chromium+Daemons;%E2%96%B6+Vibe+Coder+%7C+Learning+by+Deconstructing%2C+Mastering+by+Building" alt="Typing Subtitle" />
 </a>
 
 <br/>
@@ -37,7 +37,7 @@
 
 ---
 
-### 📐 [LAYER: IDENTITY & SPECS]
+### 📐 [LAYER: 01 // IDENTITY &amp; CORE SPECS]
 
 - ⚡ **Engineering Focus:** Architecting autonomous browser agents, high-speed security scanners, and robust full-stack applications.
 - 🛡️ **CyberSecurity & Systems:** Active researcher in offensive wireless security, AST-level credential auditing, and binary exploitation.
@@ -47,7 +47,14 @@
 
 ---
 
-## 🚀 [LAYER: FEATURED REPOSITORIES]
+## 🚀 [LAYER: 02 // FEATURED SCHEMATICS]
+
+<!-- Swarm Interactive Schematic Board -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/swarm-projects-board.svg" width="100%" alt="Swarm Project Board" />
+</div>
+
+<br/>
 
 ### 🌐 [agent-live-browser](https://github.com/MADHacker912/agent-live-browser)
 > Dedicated persistent sandboxed Chromium browser for AI agents with **real-time interactive live streaming at `http://localhost:7654`** and Google BotGuard stealth bypass.
@@ -108,9 +115,22 @@
 > ![Packet Crafting](https://img.shields.io/badge/Packet_Crafting-557C94?style=flat-square&logo=wireshark&logoColor=white)
 > ![Security Audit](https://img.shields.io/badge/Security_Audit-24292E?style=flat-square)
 
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/swarm-divider.svg" width="100%" alt="Canvas Snap Guide" />
+</div>
+
 ---
 
-## 🛠️ [LAYER: TECHNICAL ARSENAL]
+## 🛠️ [LAYER: 03 // TECHNICAL ARSENAL]
+
+<!-- Swarm Tooling Canvas Board -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/swarm-tech-banner.svg" width="100%" alt="Swarm Tech Stack" />
+</div>
+
+<br/>
 
 <div align="center">
 
@@ -159,9 +179,15 @@
 
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/swarm-divider.svg" width="100%" alt="Canvas Snap Guide" />
+</div>
+
 ---
 
-## 📈 [LAYER: CONTRIBUTION TIMELINES]
+## 📈 [LAYER: 04 // REBUILD TELEMETRY]
 
 ### 🎮 Contribution Snake
 <div align="center">
@@ -183,9 +209,15 @@
   </picture>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/swarm-divider.svg" width="100%" alt="Canvas Snap Guide" />
+</div>
+
 ---
 
-## 🌐 [LAYER: CONNECT & UPLINK]
+## 🌐 [LAYER: 05 // MULTIPLAYER UPLINK]
 
 <div align="center">
   <p><i>Always open to collaborating on ambitious open-source tools, cybersecurity research, and AI systems.</i></p>
