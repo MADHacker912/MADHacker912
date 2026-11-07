@@ -1,138 +1,172 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  CYBERPUNK ANIMATED HERO BANNER                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ================================================================= -->
+<!--                        HEADER & IDENTITY                          -->
+<!-- ================================================================= -->
 
 <a href="https://sakshamgupta.online" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=240&section=header&text=⚡%20SAKSHAM%20GUPTA%20⚡&fontSize=50&fontAlignY=36&desc=%E2%9A%A1%20MADHacker912%20%7C%20Full-Stack%20Architect%20%E2%80%A2%20CyberSec%20Researcher%20%E2%80%A2%20AI%20Builder%20%E2%9A%A1&descAlignY=60&descAlign=50&animation=twinkling" width="100%" alt="Saksham Gupta Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=%E2%9A%A1%20SAKSHAM%20GUPTA%20%E2%9A%A1&fontSize=46&fontAlignY=36&desc=Full-Stack%20Systems%20Architect%20%7C%20CyberSecurity%20Researcher&descAlignY=58&descAlign=50&animation=twinkling" width="100%" alt="Saksham Gupta" />
 </a>
 
-<!-- Animated Cyber Divider -->
-<img src="assets/cyber-divider.svg" width="100%" alt="Divider" />
+<!-- Laser Divider -->
+<img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/cyber-divider.svg" width="100%" alt="Divider" />
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  DYNAMIC ROTATING TYPING MOTION                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=900&color=00F0FF&background=0D111700&center=true&vCenter=true&width=850&height=52&lines=%E2%96%B6+Full-Stack+Architect+%26+Offensive+Security+Specialist;%E2%96%B6+Reverse+Engineering%2C+Binary+Analysis+%26+Malware+Research;%E2%96%B6+Creator+of+agent-live-browser%2C+vault-scanner+%26+MJ-X;%E2%96%B6+Specialized+in+Autonomous+AI+Agents+%26+Next-Gen+Tooling;%E2%96%B6+Vibe+Coder+%7C+Deconstructing+Complex+Systems+%26+Shipping+Fast" alt="Typing SVG" />
+<!-- Dynamic Typing Subtitle -->
+<a href="https://sakshamgupta.online">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&width=800&height=46&lines=%E2%96%B6+Full-Stack+Systems+Architect+%26+Security+Researcher;%E2%96%B6+Author+of+agent-live-browser%2C+vault-scanner+%26+MJ-X;%E2%96%B6+Building+Autonomous+AI+Agents+%26+Zero-Dependency+Tools;%E2%96%B6+Vibe+Coder+%7C+Learning+by+Deconstructing%2C+Mastering+by+Building" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Real-time HUD Status & Badges -->
+<!-- Status Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MADHacker912&label=SYS.VIEWS&color=00F0FF&style=for-the-badge&label_color=0D1117" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/CLEARANCE-LEVEL%20ROOT-FF0055?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=0D1117" alt="Clearance" />
-  <img src="https://img.shields.io/badge/GRID%20STATUS-ONLINE%2024%2F7-00FF9C?style=for-the-badge&logo=statuspal&logoColor=00FF9C&labelColor=0D1117" alt="Status" />
-  <img src="https://img.shields.io/badge/PORTFOLIO-sakshamgupta.online-7928CA?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+  <a href="https://sakshamgupta.online" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-sakshamgupta.online-7928CA?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+  </a>
+  <img src="https://img.shields.io/badge/FOCUS-AUTONOMOUS%20AGENTS-00F0FF?style=for-the-badge&logo=probot&logoColor=00F0FF&labelColor=0D1117" alt="Focus" />
+  <img src="https://img.shields.io/badge/SECURITY-OFFENSIVE%20RESEARCH-FF0055?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117" alt="Security" />
+  <img src="https://komarev.com/ghpvc/?username=MADHacker912&label=PROFILE%20VIEWS&color=00FF9C&style=for-the-badge&label_color=0D1117" alt="Profile Views" />
 </p>
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 ANIMATED CYBER MAINFRAME HUD                   -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+---
+
+### 👨‍💻 About Me
+
+- ⚡ **Engineering Focus:** Architecting autonomous browser agents, high-speed security scanners, and robust full-stack applications.
+- 🛡️ **CyberSecurity & Systems:** Active researcher in offensive wireless security, AST-level credential auditing, and binary exploitation.
+- 💡 **Philosophy:** *“Vibe Coder”* — I deconstruct complex systems down to first principles, master how they function, and build frictionless software.
+- 🌐 **Personal Portfolio:** [sakshamgupta.online](https://sakshamgupta.online)
+- 📫 **Direct Inquiries:** [sakshamguptasg368@gmail.com](mailto:sakshamguptasg368@gmail.com)
+
+---
+
+## 🚀 Featured GitHub Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 <a href="https://github.com/MADHacker912/agent-live-browser">agent-live-browser</a></h3>
+      <p>Dedicated persistent sandboxed Chromium browser for AI agents with <b>real-time interactive live streaming at <code>http://localhost:7654</code></b> and Google BotGuard stealth bypass.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Chromium-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/Live_Stream-FF0055?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ <a href="https://github.com/MADHacker912/vault-scanner">vault-scanner</a></h3>
+      <p>Ultra-fast, zero-dependency, local secret and credential scanner. Performs deep AST analysis to catch leaked API keys, tokens, and sensitive data before git commits.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/AST_Analysis-00F0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Zero_Dependency-00FF9C?style=flat-square" />
+        <img src="https://img.shields.io/badge/Pre--commit-24292E?style=flat-square&logo=git&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/MADHacker912/MJ-X">MJ-X</a></h3>
+      <p>Autonomous cross-platform AI assistant built for desktop task orchestration, terminal workflows, and natural language device operation.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Autonomous_Agent-7928CA?style=flat-square" />
+        <img src="https://img.shields.io/badge/Local_LLM-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/Desktop_Automation-107C41?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚖️ <a href="https://github.com/MADHacker912/MJ-X-Law">MJ-X-Law</a></h3>
+      <p>Specialized legal intelligence engine for clause-by-clause commercial contract review, DPA analysis, risk scoring, and automated compliance triage.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Legal_AI-0077B5?style=flat-square" />
+        <img src="https://img.shields.io/badge/Risk_Scoring-E91E63?style=flat-square" />
+        <img src="https://img.shields.io/badge/CUAD_Benchmark-333333?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔐 <a href="https://github.com/MADHacker912/PrivChat">PrivChat</a></h3>
+      <p>Privacy-first communication application with client-side end-to-end encryption, ephemeral channels, and zero-knowledge data persistence.</p>
+      <p>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/WebCrypto-00F0FF?style=flat-square" />
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+        <img src="https://img.shields.io/badge/E2EE-00FF9C?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 <a href="https://github.com/MADHacker912/WIFI-Flood">WIFI-Flood</a></h3>
+      <p>802.11 wireless beacon frame security auditor and AP stress-testing utility for evaluating network resilience against frame-flooding attacks.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Wireless_802.11-FF0055?style=flat-square" />
+        <img src="https://img.shields.io/badge/Packet_Crafting-557C94?style=flat-square&logo=wireshark&logoColor=white" />
+        <img src="https://img.shields.io/badge/Security_Audit-24292E?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Technical Arsenal
 
 <div align="center">
-  <img src="assets/cyber-status.svg" width="100%" alt="Cyber Status HUD" />
+
+### 🛡️ CyberSecurity & Reverse Engineering
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
+  <img src="https://img.shields.io/badge/Ghidra-E91E63?style=for-the-badge&logo=nsa&logoColor=white" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+</p>
+
+### ⚡ Core Systems & Programming Languages
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=DEA584" alt="Rust" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+</p>
+
+### 🌐 Frontend Craft, Motion & Mobile
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+</p>
+
+### 🧠 AI, Backends & Infrastructure
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+</p>
+
 </div>
 
-<br/>
+---
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--             ANIMATED CYBER AUDIO & LO-FI VISUALIZER            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="assets/cyber-audio.svg" width="100%" alt="Cyber Audio Visualizer" />
-</div>
-
-<br/>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                 DYNAMIC CYBER HACKER QUOTE                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Dev Quotes" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/cyber-divider.svg" width="100%" alt="Divider" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  FLAGSHIP ENGINEERED PROJECTS                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30" height="30" />
-  <span> <b>FEATURED HIGH-IMPACT ARSENAL</b> </span>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="30" height="30" />
-</h2>
-
-<div align="center">
-  <p><i>Autonomous AI agents, zero-dependency security engines, offensive tooling &amp; privacy software.</i></p>
-
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/MADHacker912/agent-live-browser">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MADHacker912&repo=agent-live-browser&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00F0FF&icon_color=00FF9C&text_color=8B949E" alt="agent-live-browser" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MADHacker912/vault-scanner">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MADHacker912&repo=vault-scanner&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00F0FF&icon_color=00FF9C&text_color=8B949E" alt="vault-scanner" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/MADHacker912/MJ-X">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MADHacker912&repo=MJ-X&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00F0FF&icon_color=00FF9C&text_color=8B949E" alt="MJ-X" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MADHacker912/PrivChat">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MADHacker912&repo=PrivChat&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00F0FF&icon_color=00FF9C&text_color=8B949E" alt="PrivChat" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/MADHacker912/WIFI-Flood">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MADHacker912&repo=WIFI-Flood&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00F0FF&icon_color=00FF9C&text_color=8B949E" alt="WIFI-Flood" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/MADHacker912/Hinglis-AI-Voice-Assistance">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MADHacker912&repo=Hinglish-AI&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00F0FF&icon_color=00FF9C&text_color=8B949E" alt="Hinglish-AI" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/cyber-divider.svg" width="100%" alt="Divider" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                GITHUB PROFILE ANALYTICS COMMAND                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" height="30" />
-  <span> <b>CODE INTELLIGENCE &amp; ANALYTICS MATRIX</b> </span>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" height="30" />
-</h2>
+## 📊 GitHub Analytics
 
 <div align="center">
   <table border="0">
@@ -155,192 +189,36 @@
   </table>
 </div>
 
-<br/>
+---
 
+## 📈 Contribution Timelines
+
+### 🎮 Contribution Snake
 <div align="center">
-  <img src="assets/cyber-divider.svg" width="100%" alt="Divider" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     TECH ARSENAL & WEAPONRY                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="30" height="30" />
-  <span> <b>TACTICAL CYBER WEAPONRY &amp; TECH STACK</b> </span>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="30" height="30" />
-</h2>
-
-<div align="center">
-
-### 🛡️ CyberSecurity, Reverse Engineering &amp; Exploitation
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/Metasploit-111111?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Ghidra-E91E63?style=for-the-badge&logo=nsa&logoColor=white" alt="Ghidra" />
-  <img src="https://img.shields.io/badge/Radare2-000000?style=for-the-badge&logo=gnubash&logoColor=00F0FF" alt="Radare2" />
-  <img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Aircrack--ng-333333?style=for-the-badge&logo=gnubash&logoColor=00FF9C" alt="Aircrack" />
-  <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-</p>
-
-### ⚡ Core Systems &amp; Programming Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=DEA584" alt="Rust" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-</p>
-
-### 🌐 Frontend Craft, Motion &amp; Mobile
-<p align="center">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-</p>
-
-### 🧠 AI, Autonomous Systems &amp; Backend Infrastructure
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/cyber-divider.svg" width="100%" alt="Divider" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  GITHUB TELEMETRY & METRICS                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30" />
-  <span> <b>NEURAL ACTIVITY &amp; STREAK TELEMETRY</b> </span>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30" />
-</h2>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MADHacker912&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00F0FF&icon_color=00FF9C&text_color=E0E6ED&count_private=true" alt="MADHacker912 Stats" />
-      </td>
-      <td>
-        <img src="https://streak-stats.demolab.com?user=MADHacker912&theme=tokyonight&hide_border=true&border_radius=10&background=0D1117&ring=00F0FF&fire=FF0055&currStreakLabel=00FF9C" alt="Streak Stats" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MADHacker912&layout=compact&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00F0FF&text_color=E0E6ED" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/cyber-divider.svg" width="100%" alt="Divider" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              CONTRIBUTION MATRIX // 3D & SNAKE GAME            -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" height="30" />
-  <span> <b>CONTRIBUTION MATRIX // SNAKE EATER &amp; 3D TIMELINE</b> </span>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" height="30" />
-</h2>
-
-<div align="center">
-  <p><i>Automated 12-hour cyber snake devouring contributions across the GitHub timeline.</i></p>
-
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MADHacker912/MADHacker912/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MADHacker912/MADHacker912/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/output/github-contribution-grid-snake-dark.svg" width="100%" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
 </div>
 
 <br/>
 
+### 🧊 3D Isometric Contributions
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg">
-    <img alt="3D Profile Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/profile-3d-contrib/profile-gitblock.svg">
+    <img alt="3D Profile Contribution Graph" src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
   </picture>
 </div>
 
-<br/>
+---
+
+## 🌐 Connect With Me
 
 <div align="center">
-  <img src="assets/cyber-divider.svg" width="100%" alt="Divider" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                EASTER EGG // RECON CONSOLE LOG                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-  <details>
-    <summary><b>⚡ CLICK TO EXPAND ROOT MAINFRAME SPECIFICATIONS ⚡</b></summary>
-    <br/>
-    <p align="left">
-      <code>
-        ======================= SYSTEM IDENTITY =======================<br/>
-        [+] IDENTITY     : Saksham Gupta (MADHacker912 / Obito)<br/>
-        [+] SPECIALTY    : Autonomous Browser Agents &amp; Offensive Security<br/>
-        [+] PRIMARY OS   : Arch Linux / Kali Linux Rolling (Kernel Hardened)<br/>
-        [+] PHILOSOPHY   : Vibe Coder — Learn by Breaking, Master by Building<br/>
-        [+] SHELL        : /bin/zsh - custom prompt &amp; telemetry hooked<br/>
-        [+] RECON STATUS : Scanning for next zero-day innovation...<br/>
-        ===============================================================
-      </code>
-    </p>
-  </details>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="assets/cyber-divider.svg" width="100%" alt="Divider" />
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     NEURAL UPLINK / SOCIALS                    -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="30" height="30" />
-  <span> <b>ESTABLISH UPLINK // CONNECT</b> </span>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Satellite%20Antenna.png" width="30" height="30" />
-</h2>
-
-<div align="center">
-  <p><i>Looking for collaboration, visionary engineering, or security research? Drop a ping.</i></p>
+  <p><i>Always open to collaborating on ambitious open-source tools, cybersecurity research, and AI systems.</i></p>
 
   <a href="https://sakshamgupta.online" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
@@ -351,7 +229,7 @@
   </a>
   &nbsp;
   <a href="https://twitter.com/saksham_gupta" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
   &nbsp;
   <a href="https://discord.gg/_obito_gupta_" target="_blank">
@@ -367,18 +245,14 @@
   </a>
   &nbsp;
   <a href="mailto:sakshamguptasg368@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        ANIMATED FOOTER                         -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,12,1&height=120&section=footer" width="100%" alt="Footer Wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,12,1&height=110&section=footer" width="100%" alt="Footer Wave" />
   
   <p align="center">
     <i>⚡ "Vibe Coder" — Learning by Deconstructing, Mastering by Building. ⚡</i>
