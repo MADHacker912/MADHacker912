@@ -5,7 +5,7 @@
 <!-- ================================================================= -->
 
 <a href="https://sakshamgupta.online" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=220&section=header&text=%E2%9A%A1%20SAKSHAM%20GUPTA%20%E2%9A%A1&fontSize=46&fontAlignY=36&desc=Full-Stack%20Systems%20Architect%20%7C%20CyberSecurity%20Researcher&descAlignY=58&descAlign=50&animation=twinkling" width="100%" alt="Saksham Gupta" />
+  <img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/hero-banner.svg" width="100%" alt="Saksham Gupta" />
 </a>
 
 <!-- Laser Divider -->
@@ -252,9 +252,5 @@
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,24,12,1&height=110&section=footer" width="100%" alt="Footer Wave" />
-  
-  <p align="center">
-    <i>⚡ "Vibe Coder" — Learning by Deconstructing, Mastering by Building. ⚡</i>
-  </p>
+  <img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/footer-banner.svg" width="100%" alt="Footer" />
 </div>
