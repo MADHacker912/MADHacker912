@@ -5,15 +5,14 @@
 <!-- ================================================================= -->
 
 <a href="https://sakshamgupta.online" target="_blank">
-  <img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/hero-banner.svg" width="100%" alt="Saksham Gupta" />
+  <img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/hero-banner.svg" width="100%" alt="Saksham Gupta Header" />
 </a>
 
-<!-- Laser Divider -->
-<img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/cyber-divider.svg" width="100%" alt="Divider" />
+<br/>
 
 <!-- Dynamic Typing Subtitle -->
 <a href="https://sakshamgupta.online">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&width=800&height=46&lines=%E2%96%B6+Full-Stack+Systems+Architect+%26+Security+Researcher;%E2%96%B6+Author+of+agent-live-browser%2C+vault-scanner+%26+MJ-X;%E2%96%B6+Building+Autonomous+AI+Agents+%26+Zero-Dependency+Tools;%E2%96%B6+Vibe+Coder+%7C+Learning+by+Deconstructing%2C+Mastering+by+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&width=750&height=44&lines=%E2%96%B6+Full-Stack+Systems+Architect+%26+Security+Researcher;%E2%96%B6+Author+of+agent-live-browser%2C+vault-scanner+%26+MJ-X;%E2%96%B6+Building+Autonomous+AI+Agents+%26+Zero-Dependency+Tools;%E2%96%B6+Vibe+Coder+%7C+Learning+by+Deconstructing%2C+Mastering+by+Building" alt="Typing Subtitle" />
 </a>
 
 <br/>
@@ -23,8 +22,11 @@
   <a href="https://sakshamgupta.online" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO-sakshamgupta.online-7928CA?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117" alt="Portfolio" />
   </a>
+  &nbsp;
   <img src="https://img.shields.io/badge/FOCUS-AUTONOMOUS%20AGENTS-00F0FF?style=for-the-badge&logo=probot&logoColor=00F0FF&labelColor=0D1117" alt="Focus" />
+  &nbsp;
   <img src="https://img.shields.io/badge/SECURITY-OFFENSIVE%20RESEARCH-FF0055?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117" alt="Security" />
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=MADHacker912&label=PROFILE%20VIEWS&color=00FF9C&style=for-the-badge&label_color=0D1117" alt="Profile Views" />
 </p>
 
@@ -44,74 +46,64 @@
 
 ## 🚀 Featured GitHub Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌐 <a href="https://github.com/MADHacker912/agent-live-browser">agent-live-browser</a></h3>
-      <p>Dedicated persistent sandboxed Chromium browser for AI agents with <b>real-time interactive live streaming at <code>http://localhost:7654</code></b> and Google BotGuard stealth bypass.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Chromium-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-        <img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-        <img src="https://img.shields.io/badge/Live_Stream-FF0055?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚡ <a href="https://github.com/MADHacker912/vault-scanner">vault-scanner</a></h3>
-      <p>Ultra-fast, zero-dependency, local secret and credential scanner. Performs deep AST analysis to catch leaked API keys, tokens, and sensitive data before git commits.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/AST_Analysis-00F0FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Zero_Dependency-00FF9C?style=flat-square" />
-        <img src="https://img.shields.io/badge/Pre--commit-24292E?style=flat-square&logo=git&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/MADHacker912/MJ-X">MJ-X</a></h3>
-      <p>Autonomous cross-platform AI assistant built for desktop task orchestration, terminal workflows, and natural language device operation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Autonomous_Agent-7928CA?style=flat-square" />
-        <img src="https://img.shields.io/badge/Local_LLM-FF6F00?style=flat-square" />
-        <img src="https://img.shields.io/badge/Desktop_Automation-107C41?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>⚖️ <a href="https://github.com/MADHacker912/MJ-X-Law">MJ-X-Law</a></h3>
-      <p>Specialized legal intelligence engine for clause-by-clause commercial contract review, DPA analysis, risk scoring, and automated compliance triage.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Legal_AI-0077B5?style=flat-square" />
-        <img src="https://img.shields.io/badge/Risk_Scoring-E91E63?style=flat-square" />
-        <img src="https://img.shields.io/badge/CUAD_Benchmark-333333?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🔐 <a href="https://github.com/MADHacker912/PrivChat">PrivChat</a></h3>
-      <p>Privacy-first communication application with client-side end-to-end encryption, ephemeral channels, and zero-knowledge data persistence.</p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/WebCrypto-00F0FF?style=flat-square" />
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-        <img src="https://img.shields.io/badge/E2EE-00FF9C?style=flat-square" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📡 <a href="https://github.com/MADHacker912/WIFI-Flood">WIFI-Flood</a></h3>
-      <p>802.11 wireless beacon frame security auditor and AP stress-testing utility for evaluating network resilience against frame-flooding attacks.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Wireless_802.11-FF0055?style=flat-square" />
-        <img src="https://img.shields.io/badge/Packet_Crafting-557C94?style=flat-square&logo=wireshark&logoColor=white" />
-        <img src="https://img.shields.io/badge/Security_Audit-24292E?style=flat-square" />
-      </p>
-    </td>
-  </tr>
-</table>
+### 🌐 [agent-live-browser](https://github.com/MADHacker912/agent-live-browser)
+> Dedicated persistent sandboxed Chromium browser for AI agents with **real-time interactive live streaming at `http://localhost:7654`** and Google BotGuard stealth bypass.
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![Chromium](https://img.shields.io/badge/Chromium-4285F4?style=flat-square&logo=googlechrome&logoColor=white)
+> ![WebSockets](https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white)
+> ![Live Streaming](https://img.shields.io/badge/Live_Stream-FF0055?style=flat-square)
+> ![Stealth](https://img.shields.io/badge/BotGuard_Bypass-00FF9C?style=flat-square)
+
+<br/>
+
+### ⚡ [vault-scanner](https://github.com/MADHacker912/vault-scanner)
+> Ultra-fast, zero-dependency, local secret and credential scanner. Performs deep AST analysis to catch leaked API keys, tokens, and sensitive data before git commits.
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![AST Analysis](https://img.shields.io/badge/AST_Analysis-00F0FF?style=flat-square)
+> ![Zero Dependency](https://img.shields.io/badge/Zero_Dependency-00FF9C?style=flat-square)
+> ![Pre-commit](https://img.shields.io/badge/Pre--commit_Hook-24292E?style=flat-square&logo=git&logoColor=white)
+
+<br/>
+
+### 🤖 [MJ-X](https://github.com/MADHacker912/MJ-X)
+> Autonomous cross-platform AI assistant built for desktop task orchestration, terminal workflows, and natural language device operation.
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![Autonomous Agent](https://img.shields.io/badge/Autonomous_Agent-7928CA?style=flat-square)
+> ![Local LLM](https://img.shields.io/badge/Local_LLM-FF6F00?style=flat-square)
+> ![Desktop Automation](https://img.shields.io/badge/Desktop_Automation-107C41?style=flat-square)
+
+<br/>
+
+### ⚖️ [MJ-X-Law](https://github.com/MADHacker912/MJ-X-Law)
+> Specialized legal intelligence engine for clause-by-clause commercial contract review, DPA analysis, risk scoring, and automated compliance triage.
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![Legal AI](https://img.shields.io/badge/Legal_AI-0077B5?style=flat-square)
+> ![Risk Scoring](https://img.shields.io/badge/Risk_Scoring-E91E63?style=flat-square)
+> ![CUAD Benchmark](https://img.shields.io/badge/CUAD_Benchmark-333333?style=flat-square)
+
+<br/>
+
+### 🔐 [PrivChat](https://github.com/MADHacker912/PrivChat)
+> Privacy-first communication application with client-side end-to-end encryption, ephemeral channels, and zero-knowledge data persistence.
+>
+> ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+> ![WebCrypto](https://img.shields.io/badge/WebCrypto-00F0FF?style=flat-square)
+> ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+> ![E2EE](https://img.shields.io/badge/E2EE-00FF9C?style=flat-square)
+
+<br/>
+
+### 📡 [WIFI-Flood](https://github.com/MADHacker912/WIFI-Flood)
+> 802.11 wireless beacon frame security auditor and AP stress-testing utility for evaluating network resilience against frame-flooding attacks.
+>
+> ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+> ![Wireless 802.11](https://img.shields.io/badge/Wireless_802.11-FF0055?style=flat-square)
+> ![Packet Crafting](https://img.shields.io/badge/Packet_Crafting-557C94?style=flat-square&logo=wireshark&logoColor=white)
+> ![Security Audit](https://img.shields.io/badge/Security_Audit-24292E?style=flat-square)
 
 ---
 
@@ -119,7 +111,7 @@
 
 <div align="center">
 
-### 🛡️ CyberSecurity & Reverse Engineering
+### 🛡️ CyberSecurity &amp; Reverse Engineering
 <p align="center">
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" alt="Burp Suite" />
@@ -130,7 +122,7 @@
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
-### ⚡ Core Systems & Programming Languages
+### ⚡ Core Systems &amp; Programming Languages
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=DEA584" alt="Rust" />
@@ -142,7 +134,7 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
 </p>
 
-### 🌐 Frontend Craft, Motion & Mobile
+### 🌐 Frontend Craft, Motion &amp; Mobile
 <p align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
@@ -152,7 +144,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
-### 🧠 AI, Backends & Infrastructure
+### 🧠 AI, Backends &amp; Infrastructure
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -162,31 +154,6 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
 </p>
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MADHacker912&theme=tokyonight" alt="Profile Details" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MADHacker912&theme=tokyonight" alt="Stats Summary" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MADHacker912&theme=tokyonight" alt="Repos Per Language" />
-      </td>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MADHacker912&theme=tokyonight" alt="Most Commit Language" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
@@ -204,7 +171,7 @@
 
 <br/>
 
-### 🧊 3D Isometric Contributions
+### 🧊 3D Isometric Timeline
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/profile-3d-contrib/profile-night-rainbow.svg">
