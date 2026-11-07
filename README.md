@@ -1,40 +1,43 @@
 <div align="center">
 
 <!-- ================================================================= -->
-<!--                        HEADER & IDENTITY                          -->
+<!--                    SWARM REBUILD // HERO CANVAS                   -->
 <!-- ================================================================= -->
 
 <a href="https://sakshamgupta.online" target="_blank">
-  <img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/hero-banner.svg" width="100%" alt="Saksham Gupta Header" />
+  <img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/swarm-rebuild-hero.svg" width="100%" alt="Swarm Rebuild Hero" />
 </a>
 
 <br/>
+
+<!-- Smart Guide Canvas Divider -->
+<img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/swarm-divider.svg" width="100%" alt="Canvas Guide" />
 
 <!-- Dynamic Typing Subtitle -->
 <a href="https://sakshamgupta.online">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&width=750&height=44&lines=%E2%96%B6+Full-Stack+Systems+Architect+%26+Security+Researcher;%E2%96%B6+Author+of+agent-live-browser%2C+vault-scanner+%26+MJ-X;%E2%96%B6+Building+Autonomous+AI+Agents+%26+Zero-Dependency+Tools;%E2%96%B6+Vibe+Coder+%7C+Learning+by+Deconstructing%2C+Mastering+by+Building" alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=1000&color=00F0FF&background=0D111700&center=true&vCenter=true&width=800&height=44&lines=%E2%96%B6+Swarm+Active%3A+Rebuilding+Autonomous+Agents+%26+Security+Engines;%E2%96%B6+Author+of+agent-live-browser%2C+vault-scanner+%26+MJ-X;%E2%96%B6+Building+Zero-Dependency+Scanners+%26+Chromium+Daemons;%E2%96%B6+Vibe+Coder+%7C+Learning+by+Deconstructing%2C+Mastering+by+Building" alt="Typing Subtitle" />
 </a>
 
 <br/>
 
-<!-- Status Badges -->
+<!-- Canvas Blueprint Badges -->
 <p align="center">
   <a href="https://sakshamgupta.online" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-sakshamgupta.online-7928CA?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/CANVAS-sakshamgupta.online-7928CA?style=for-the-badge&logo=safari&logoColor=white&labelColor=0D1117" alt="Portfolio" />
   </a>
   &nbsp;
-  <img src="https://img.shields.io/badge/FOCUS-AUTONOMOUS%20AGENTS-00F0FF?style=for-the-badge&logo=probot&logoColor=00F0FF&labelColor=0D1117" alt="Focus" />
+  <img src="https://img.shields.io/badge/SWARM-18%20CURSORS%20ACTIVE-00F0FF?style=for-the-badge&logo=probot&logoColor=00F0FF&labelColor=0D1117" alt="Swarm Active" />
   &nbsp;
   <img src="https://img.shields.io/badge/SECURITY-OFFENSIVE%20RESEARCH-FF0055?style=for-the-badge&logo=kalilinux&logoColor=white&labelColor=0D1117" alt="Security" />
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=MADHacker912&label=PROFILE%20VIEWS&color=00FF9C&style=for-the-badge&label_color=0D1117" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=MADHacker912&label=CANVAS%20VIEWS&color=00FF9C&style=for-the-badge&label_color=0D1117" alt="Profile Views" />
 </p>
 
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### 📐 [LAYER: IDENTITY & SPECS]
 
 - ⚡ **Engineering Focus:** Architecting autonomous browser agents, high-speed security scanners, and robust full-stack applications.
 - 🛡️ **CyberSecurity & Systems:** Active researcher in offensive wireless security, AST-level credential auditing, and binary exploitation.
@@ -44,7 +47,7 @@
 
 ---
 
-## 🚀 Featured GitHub Projects
+## 🚀 [LAYER: FEATURED REPOSITORIES]
 
 ### 🌐 [agent-live-browser](https://github.com/MADHacker912/agent-live-browser)
 > Dedicated persistent sandboxed Chromium browser for AI agents with **real-time interactive live streaming at `http://localhost:7654`** and Google BotGuard stealth bypass.
@@ -107,7 +110,7 @@
 
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ [LAYER: TECHNICAL ARSENAL]
 
 <div align="center">
 
@@ -158,7 +161,7 @@
 
 ---
 
-## 📈 Contribution Timelines
+## 📈 [LAYER: CONTRIBUTION TIMELINES]
 
 ### 🎮 Contribution Snake
 <div align="center">
@@ -182,7 +185,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 [LAYER: CONNECT & UPLINK]
 
 <div align="center">
   <p><i>Always open to collaborating on ambitious open-source tools, cybersecurity research, and AI systems.</i></p>
@@ -218,6 +221,10 @@
 
 <br/>
 
+<!-- ================================================================= -->
+<!--                    SWARM REBUILD // "GO LIVE" ACTION              -->
+<!-- ================================================================= -->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/footer-banner.svg" width="100%" alt="Footer" />
+  <img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/swarm-footer.svg" width="100%" alt="Swarm Rebuild Footer" />
 </div>
