@@ -47,8 +47,8 @@ $ madhacker --identity
 [INFO] Motto: "Deconstruct to understand, rebuild to master."
 ```
 
-- ⚡ **Autonomous Agents:** Engineering persistent sandboxed browser daemons and live-streamed agent harnesses (`agent-live-browser`).
-- 🛡️ **Offensive Security:** AST-level secrets auditing (`vault-scanner`), wireless reconnaissance (`MJ-X`), and systems exploitation.
+- ⚡ **Autonomous Agents:** Engineering persistent sandboxed browser daemons and live-streamed agent harnesses ([agent-live-browser](https://github.com/MADHacker912/agent-live-browser)).
+- 🛡️ **Offensive Security:** AST-level secrets auditing ([vault-scanner](https://github.com/MADHacker912/vault-scanner)), wireless reconnaissance ([MJ-X](https://github.com/MADHacker912/MJ-X)), and systems exploitation.
 - 🚀 **Full-Stack Systems:** Production TypeScript & Python backends, real-time WebSocket pipelines, and high-FPS WebGL canvases.
 - 🌐 **Canvas Portfolio:** [sakshamgupta.online](https://sakshamgupta.online)
 - 📬 **Direct Inquiries:** [sakshamguptasg368@gmail.com](mailto:sakshamguptasg368@gmail.com)
