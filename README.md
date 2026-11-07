@@ -37,13 +37,21 @@
 
 ---
 
-### 📐 [LAYER: 01 // IDENTITY &amp; CORE SPECS]
+### 📐 [LAYER: 01 // IDENTITY &amp; SYSTEM SPECS]
 
-- ⚡ **Engineering Focus:** Architecting autonomous browser agents, high-speed security scanners, and robust full-stack applications.
-- 🛡️ **CyberSecurity & Systems:** Active researcher in offensive wireless security, AST-level credential auditing, and binary exploitation.
-- 💡 **Philosophy:** *“Vibe Coder”* — I deconstruct complex systems down to first principles, master how they function, and build frictionless software.
-- 🌐 **Personal Portfolio:** [sakshamgupta.online](https://sakshamgupta.online)
-- 📫 **Direct Inquiries:** [sakshamguptasg368@gmail.com](mailto:sakshamguptasg368@gmail.com)
+```bash
+$ madhacker --identity
+[INFO] Name: Saksham Gupta (MADHacker912)
+[INFO] Role: Full-Stack Systems Architect & Offensive Security Researcher
+[INFO] Focus: Autonomous Browser Agents • AST Vulnerability Scanners • Chromium Daemons
+[INFO] Motto: "Deconstruct to understand, rebuild to master."
+```
+
+- ⚡ **Autonomous Agents:** Engineering persistent sandboxed browser daemons and live-streamed agent harnesses (`agent-live-browser`).
+- 🛡️ **Offensive Security:** AST-level secrets auditing (`vault-scanner`), wireless reconnaissance (`MJ-X`), and systems exploitation.
+- 🚀 **Full-Stack Systems:** Production TypeScript & Python backends, real-time WebSocket pipelines, and high-FPS WebGL canvases.
+- 🌐 **Canvas Portfolio:** [sakshamgupta.online](https://sakshamgupta.online)
+- 📬 **Direct Inquiries:** [sakshamguptasg368@gmail.com](mailto:sakshamguptasg368@gmail.com)
 
 ---
 
