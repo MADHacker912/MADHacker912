@@ -5,7 +5,7 @@
 <!-- ================================================================= -->
 
 <a href="https://sakshamgupta.online" target="_blank">
-  <img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/swarm-hero.svg" width="100%" alt="Swarm Rebuild Hero" />
+  <img src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/main/assets/swarm-hero.svg?v=swarm_v2" width="100%" alt="Swarm Rebuild Hero" />
 </a>
 
 <br/>
