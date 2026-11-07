@@ -32,7 +32,7 @@
     </filter>
   </defs>
 
-  <style>
+  <style><![CDATA[
     /* Swarm Multiplayer Cursors Flight Dynamics */
     @keyframes c1Fly {
       0%, 100% { transform: translate(515px, 68px); }
@@ -61,7 +61,7 @@
       70% { transform: translate(130px, 60px); }
     }
 
-    /* Selection Box & Marching Ants */
+    /* Selection Box and Marching Ants */
     @keyframes marchAnts {
       to { stroke-dashoffset: -16; }
     }
@@ -70,7 +70,7 @@
       50% { width: 512px; }
     }
 
-    /* Caret & Ripple */
+    /* Caret and Ripple */
     @keyframes caretBlink {
       0%, 49% { opacity: 1; }
       50%, 100% { opacity: 0; }
@@ -98,7 +98,7 @@
     .ruler-mono { font-family: 'SF Mono', 'Fira Code', monospace; font-size: 8px; fill: #64748B; }
     .cursor-pill { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 10px; font-weight: 700; fill: #FFFFFF; }
     .mono-code { font-family: 'SF Mono', 'Fira Code', monospace; }
-  </style>
+  ]]></style>
 
   <!-- Canvas Background -->
   <rect x="2" y="2" width="916" height="276" rx="12" fill="url(#canvasBg)"/>
@@ -221,7 +221,7 @@
     <tspan fill="#0ACF83" font-weight="700">MISSION:</tspan> Autonomous Browser Agents • AST Vulnerability Research • Linux Systems
   </text>
 
-  <!-- Row 2: Arsenal & Live Portfolio (y=236) -->
+  <!-- Row 2: Arsenal and Live Portfolio (y=236) -->
   <text x="56" y="236" class="mono-code" font-size="11" fill="#64748B">
     <tspan fill="#A259FF" font-weight="700">ARSENAL:</tspan> Rust • Python • TypeScript • C/C++ • Chromium Daemons • Playwright
   </text>
