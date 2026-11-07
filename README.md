@@ -5,7 +5,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://sakshamgupta.online" target="_blank">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=230&section=header&text=⚡%20SAKSHAM%20GUPTA%20⚡&fontSize=48&fontAlignY=36&desc=%E2%9A%A1%20MADHacker912%20%7C%20Full-Stack%20Architect%20%E2%80%A2%20CyberSec%20Researcher%20%E2%80%A2%20AI%20Builder%20%E2%9A%A1&descAlignY=60&descAlign=50&animation=twinkling" width="100%" alt="Saksham Gupta Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,12,24,30&height=240&section=header&text=⚡%20SAKSHAM%20GUPTA%20⚡&fontSize=50&fontAlignY=36&desc=%E2%9A%A1%20MADHacker912%20%7C%20Full-Stack%20Architect%20%E2%80%A2%20CyberSec%20Researcher%20%E2%80%A2%20AI%20Builder%20%E2%9A%A1&descAlignY=60&descAlign=50&animation=twinkling" width="100%" alt="Saksham Gupta Header" />
 </a>
 
 <!-- Animated Cyber Divider -->
@@ -16,7 +16,7 @@
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=00F0FF&background=0D111700&center=true&vCenter=true&width=800&height=50&lines=%E2%96%B6+Full-Stack+Architect+%26+Offensive+Security+Specialist;%E2%96%B6+Reverse+Engineering%2C+Binary+Analysis+%26+Malware+Research;%E2%96%B6+Creator+of+agent-live-browser%2C+vault-scanner+%26+MJ-X;%E2%96%B6+Specialized+in+Autonomous+AI+Agents+%26+Next-Gen+Tooling;%E2%96%B6+Vibe+Coder+%7C+Deconstructing+Complex+Systems+%26+Shipping+Fast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=900&color=00F0FF&background=0D111700&center=true&vCenter=true&width=850&height=52&lines=%E2%96%B6+Full-Stack+Architect+%26+Offensive+Security+Specialist;%E2%96%B6+Reverse+Engineering%2C+Binary+Analysis+%26+Malware+Research;%E2%96%B6+Creator+of+agent-live-browser%2C+vault-scanner+%26+MJ-X;%E2%96%B6+Specialized+in+Autonomous+AI+Agents+%26+Next-Gen+Tooling;%E2%96%B6+Vibe+Coder+%7C+Deconstructing+Complex+Systems+%26+Shipping+Fast" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -41,6 +41,26 @@
 
 <br/>
 
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--             ANIMATED CYBER AUDIO & LO-FI VISUALIZER            -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="assets/cyber-audio.svg" width="100%" alt="Cyber Audio Visualizer" />
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                 DYNAMIC CYBER HACKER QUOTE                    -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="100%" alt="Dev Quotes" />
+</div>
+
+<br/>
+
 <div align="center">
   <img src="assets/cyber-divider.svg" width="100%" alt="Divider" />
 </div>
@@ -56,7 +76,7 @@
 </h2>
 
 <div align="center">
-  <p><i>Autonomous AI agents, zero-dependency security engines, and cutting-edge software systems.</i></p>
+  <p><i>Autonomous AI agents, zero-dependency security engines, offensive tooling &amp; privacy software.</i></p>
 
   <table border="0">
     <tr>
@@ -83,6 +103,55 @@
         </a>
       </td>
     </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/MADHacker912/WIFI-Flood">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MADHacker912&repo=WIFI-Flood&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00F0FF&icon_color=00FF9C&text_color=8B949E" alt="WIFI-Flood" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/MADHacker912/Hinglis-AI-Voice-Assistance">
+          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=MADHacker912&repo=Hinglish-AI&theme=tokyonight&hide_border=true&border_radius=10&bg_color=0D1117&title_color=00F0FF&icon_color=00FF9C&text_color=8B949E" alt="Hinglish-AI" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/cyber-divider.svg" width="100%" alt="Divider" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                GITHUB PROFILE ANALYTICS COMMAND                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" height="30" />
+  <span> <b>CODE INTELLIGENCE &amp; ANALYTICS MATRIX</b> </span>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="30" height="30" />
+</h2>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MADHacker912&theme=tokyonight" alt="Profile Details" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MADHacker912&theme=tokyonight" alt="Stats Summary" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MADHacker912&theme=tokyonight" alt="Repos Per Language" />
+      </td>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MADHacker912&theme=tokyonight" alt="Most Commit Language" />
+      </td>
+    </tr>
   </table>
 </div>
 
@@ -98,7 +167,7 @@
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="30" height="30" />
-  <span> <b>CORE WEAPONS &amp; TECH STACK</b> </span>
+  <span> <b>TACTICAL CYBER WEAPONRY &amp; TECH STACK</b> </span>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="30" height="30" />
 </h2>
 
@@ -113,6 +182,7 @@
   <img src="https://img.shields.io/badge/Ghidra-E91E63?style=for-the-badge&logo=nsa&logoColor=white" alt="Ghidra" />
   <img src="https://img.shields.io/badge/Radare2-000000?style=for-the-badge&logo=gnubash&logoColor=00F0FF" alt="Radare2" />
   <img src="https://img.shields.io/badge/Nmap-00599C?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Aircrack--ng-333333?style=for-the-badge&logo=gnubash&logoColor=00FF9C" alt="Aircrack" />
   <img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
@@ -166,7 +236,7 @@
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30" />
-  <span> <b>NEURAL ACTIVITY &amp; TELEMETRY</b> </span>
+  <span> <b>NEURAL ACTIVITY &amp; STREAK TELEMETRY</b> </span>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" height="30" />
 </h2>
 
@@ -195,23 +265,62 @@
 </div>
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--              CONTRIBUTION MATRIX // SNAKE GAME                 -->
+<!--              CONTRIBUTION MATRIX // 3D & SNAKE GAME            -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <h2 align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" height="30" />
-  <span> <b>CONTRIBUTION GRID // SNAKE EATER</b> </span>
+  <span> <b>CONTRIBUTION MATRIX // SNAKE EATER &amp; 3D TIMELINE</b> </span>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" width="30" height="30" />
 </h2>
 
 <div align="center">
-  <p><i>Automated cyber snake devouring contributions across the GitHub timeline.</i></p>
+  <p><i>Automated 12-hour cyber snake devouring contributions across the GitHub timeline.</i></p>
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MADHacker912/MADHacker912/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MADHacker912/MADHacker912/output/github-contribution-grid-snake.svg">
     <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/MADHacker912/MADHacker912/output/github-contribution-grid-snake-dark.svg" width="100%" />
   </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-gitblock.svg">
+    <img alt="3D Profile Contribution Graph" src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="assets/cyber-divider.svg" width="100%" alt="Divider" />
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                EASTER EGG // RECON CONSOLE LOG                 -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+  <details>
+    <summary><b>⚡ CLICK TO EXPAND ROOT MAINFRAME SPECIFICATIONS ⚡</b></summary>
+    <br/>
+    <p align="left">
+      <code>
+        ======================= SYSTEM IDENTITY =======================<br/>
+        [+] IDENTITY     : Saksham Gupta (MADHacker912 / Obito)<br/>
+        [+] SPECIALTY    : Autonomous Browser Agents &amp; Offensive Security<br/>
+        [+] PRIMARY OS   : Arch Linux / Kali Linux Rolling (Kernel Hardened)<br/>
+        [+] PHILOSOPHY   : Vibe Coder — Learn by Breaking, Master by Building<br/>
+        [+] SHELL        : /bin/zsh - custom prompt &amp; telemetry hooked<br/>
+        [+] RECON STATUS : Scanning for next zero-day innovation...<br/>
+        ===============================================================
+      </code>
+    </p>
+  </details>
 </div>
 
 <br/>

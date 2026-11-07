@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 110" width="100%" height="110">
+  <defs>
+    <linearGradient id="audioGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF"/>
+      <stop offset="35%" stop-color="#7928CA"/>
+      <stop offset="70%" stop-color="#FF007F"/>
+      <stop offset="100%" stop-color="#00FF9C"/>
+    </linearGradient>
+    <linearGradient id="vinylGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#FF007F" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes spinDisc {
+      from { transform: rotate(0deg); }
+      to { transform: rotate(360deg); }
+    }
+    @keyframes glowPulse {
+      0%, 100% { opacity: 0.5; filter: drop-shadow(0 0 2px #00F0FF); }
+      50% { opacity: 1; filter: drop-shadow(0 0 6px #00F0FF); }
+    }
+    @keyframes wave1 { 0%, 100% { height: 8px; y: 72px; } 50% { height: 38px; y: 42px; } }
+    @keyframes wave2 { 0%, 100% { height: 34px; y: 46px; } 50% { height: 12px; y: 68px; } }
+    @keyframes wave3 { 0%, 100% { height: 20px; y: 60px; } 50% { height: 44px; y: 36px; } }
+    @keyframes wave4 { 0%, 100% { height: 42px; y: 38px; } 50% { height: 14px; y: 66px; } }
+    @keyframes wave5 { 0%, 100% { height: 12px; y: 68px; } 50% { height: 32px; y: 48px; } }
+
+    .disc {
+      transform-origin: 55px 55px;
+      animation: spinDisc 4s linear infinite;
+    }
+    .w-1 { animation: wave1 1.1s ease-in-out infinite; }
+    .w-2 { animation: wave2 0.85s ease-in-out infinite; }
+    .w-3 { animation: wave3 1.3s ease-in-out infinite; }
+    .w-4 { animation: wave4 0.95s ease-in-out infinite; }
+    .w-5 { animation: wave5 1.15s ease-in-out infinite; }
+    .pulse-text { animation: glowPulse 2s ease-in-out infinite; }
+    .mono { font-family: 'Fira Code', 'Courier New', monospace; }
+  </style>
+
+  <!-- Container Box -->
+  <rect x="2" y="2" width="846" height="106" rx="10" fill="#0D1117" stroke="#30363D" stroke-width="1"/>
+  <rect x="2" y="2" width="846" height="106" rx="10" fill="none" stroke="url(#audioGrad)" stroke-width="1.2" opacity="0.7"/>
+
+  <!-- Rotating Holographic Disc -->
+  <g class="disc">
+    <circle cx="55" cy="55" r="32" fill="#161B22" stroke="url(#vinylGlow)" stroke-width="2"/>
+    <circle cx="55" cy="55" r="22" fill="none" stroke="#30363D" stroke-dasharray="3,3"/>
+    <circle cx="55" cy="55" r="12" fill="none" stroke="#00F0FF" stroke-width="1.5"/>
+    <circle cx="55" cy="55" r="5" fill="#FF007F"/>
+  </g>
+
+  <!-- Track & System Info -->
+  <text x="105" y="34" class="mono pulse-text" font-size="11" font-weight="700" fill="#00FF9C">▶ SYSTEM FREQUENCY // 432 Hz CYBERPUNK FLOW</text>
+  <text x="105" y="55" class="mono" font-size="14" font-weight="bold" fill="#F0F6FC">Lo-Fi Synthwave &amp; Glitch-Hop [Code Mode Active]</text>
+  <text x="105" y="75" class="mono" font-size="11" fill="#8B949E">AUDIO ENGINE: <tspan fill="#00F0FF">DSP Lossless</tspan> | BITRATE: <tspan fill="#00F0FF">320kbps</tspan> | CHANNELS: <tspan fill="#FF007F">Stereo Binaural</tspan></text>
+
+  <!-- Equalizer Spectrum Bars -->
+  <g fill="url(#audioGrad)">
+    <rect x="560" y="72" width="4" height="8" rx="2" class="w-1"/>
+    <rect x="568" y="46" width="4" height="34" rx="2" class="w-2"/>
+    <rect x="576" y="60" width="4" height="20" rx="2" class="w-3"/>
+    <rect x="584" y="38" width="4" height="42" rx="2" class="w-4"/>
+    <rect x="592" y="68" width="4" height="12" rx="2" class="w-5"/>
+    <rect x="600" y="72" width="4" height="8" rx="2" class="w-1"/>
+    <rect x="608" y="46" width="4" height="34" rx="2" class="w-2"/>
+    <rect x="616" y="60" width="4" height="20" rx="2" class="w-3"/>
+    <rect x="624" y="38" width="4" height="42" rx="2" class="w-4"/>
+    <rect x="632" y="68" width="4" height="12" rx="2" class="w-5"/>
+    <rect x="640" y="72" width="4" height="8" rx="2" class="w-1"/>
+    <rect x="648" y="46" width="4" height="34" rx="2" class="w-2"/>
+    <rect x="656" y="60" width="4" height="20" rx="2" class="w-3"/>
+    <rect x="664" y="38" width="4" height="42" rx="2" class="w-4"/>
+    <rect x="672" y="68" width="4" height="12" rx="2" class="w-5"/>
+    <rect x="680" y="72" width="4" height="8" rx="2" class="w-1"/>
+    <rect x="688" y="46" width="4" height="34" rx="2" class="w-2"/>
+    <rect x="696" y="60" width="4" height="20" rx="2" class="w-3"/>
+    <rect x="704" y="38" width="4" height="42" rx="2" class="w-4"/>
+    <rect x="712" y="68" width="4" height="12" rx="2" class="w-5"/>
+    <rect x="720" y="72" width="4" height="8" rx="2" class="w-1"/>
+    <rect x="728" y="46" width="4" height="34" rx="2" class="w-2"/>
+    <rect x="736" y="60" width="4" height="20" rx="2" class="w-3"/>
+    <rect x="744" y="38" width="4" height="42" rx="2" class="w-4"/>
+    <rect x="752" y="68" width="4" height="12" rx="2" class="w-5"/>
+    <rect x="760" y="72" width="4" height="8" rx="2" class="w-1"/>
+    <rect x="768" y="46" width="4" height="34" rx="2" class="w-2"/>
+    <rect x="776" y="60" width="4" height="20" rx="2" class="w-3"/>
+    <rect x="784" y="38" width="4" height="42" rx="2" class="w-4"/>
+    <rect x="792" y="68" width="4" height="12" rx="2" class="w-5"/>
+    <rect x="800" y="72" width="4" height="8" rx="2" class="w-1"/>
+    <rect x="808" y="46" width="4" height="34" rx="2" class="w-2"/>
+    <rect x="816" y="60" width="4" height="20" rx="2" class="w-3"/>
+    <rect x="824" y="38" width="4" height="42" rx="2" class="w-4"/>
+  </g>
+
+  <!-- Timestamp Badge -->
+  <rect x="740" y="16" width="88" height="20" rx="4" fill="#161B22" stroke="#30363D"/>
+  <text x="748" y="30" class="mono" font-size="10" fill="#00FF9C">04:20 / ∞</text>
+</svg>
