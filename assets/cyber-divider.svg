@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 24" width="100%" height="24">
+  <defs>
+    <linearGradient id="divGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0"/>
+      <stop offset="20%" stop-color="#00F0FF" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#7928CA" stop-opacity="1"/>
+      <stop offset="80%" stop-color="#FF007F" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#FF007F" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="laserBeam" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#FFFFFF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <style>
+    @keyframes sweep {
+      0% { transform: translateX(-300px); }
+      100% { transform: translateX(900px); }
+    }
+    @keyframes pulseDot {
+      0%, 100% { transform: scale(1); opacity: 0.6; }
+      50% { transform: scale(1.4); opacity: 1; }
+    }
+    .beam {
+      animation: sweep 3s cubic-bezier(0.4, 0, 0.2, 1) infinite;
+    }
+    .node {
+      transform-origin: center;
+      animation: pulseDot 2s ease-in-out infinite;
+    }
+  </style>
+
+  <!-- Base Glow Line -->
+  <line x1="50" y1="12" x2="850" y2="12" stroke="url(#divGrad)" stroke-width="2" stroke-linecap="round"/>
+
+  <!-- Scanning Energy Pulse -->
+  <g clip-path="url(#divClip)">
+    <clipPath id="divClip">
+      <rect x="50" y="0" width="800" height="24"/>
+    </clipPath>
+    <rect x="0" y="10" width="200" height="4" fill="url(#laserBeam)" class="beam" opacity="0.9"/>
+  </g>
+
+  <!-- Center Diamond Indicator -->
+  <polygon points="450,4 458,12 450,20 442,12" fill="#00F0FF" class="node"/>
+  <circle cx="450" cy="12" r="2" fill="#FFFFFF"/>
+
+  <!-- Accent Nodes -->
+  <circle cx="200" cy="12" r="3" fill="#00F0FF" opacity="0.7"/>
+  <circle cx="700" cy="12" r="3" fill="#FF007F" opacity="0.7"/>
+</svg>
