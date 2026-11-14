@@ -43,6 +43,7 @@
 $ madhacker --identity
 [INFO] Name: Saksham Gupta (MADHacker912)
 [INFO] Role: Full-Stack Systems Architect & Offensive Security Researcher
+[INFO] Product Hunt Maker: @saksham_gupta22 (Hunter & Maker of MJ-X)
 [INFO] Focus: Autonomous Browser Agents • AST Vulnerability Scanners • Chromium Daemons
 [INFO] Motto: "Deconstruct to understand, rebuild to master."
 ```
@@ -237,6 +238,10 @@ $ madhacker --identity
   &nbsp;
   <a href="https://www.linkedin.com/in/saksham-gupta-9125obito" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.producthunt.com/@saksham_gupta22" target="_blank">
+    <img src="https://img.shields.io/badge/Product%20Hunt-Maker%20@saksham__gupta22-FF6154?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt" />
   </a>
   &nbsp;
   <a href="https://twitter.com/saksham_gupta" target="_blank">
