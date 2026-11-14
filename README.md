@@ -92,6 +92,7 @@ $ madhacker --identity
 > ![Autonomous Agent](https://img.shields.io/badge/Autonomous_Agent-7928CA?style=flat-square)
 > ![Local LLM](https://img.shields.io/badge/Local_LLM-FF6F00?style=flat-square)
 > ![Desktop Automation](https://img.shields.io/badge/Desktop_Automation-107C41?style=flat-square)
+> [![Product Hunt](https://img.shields.io/badge/Product_Hunt-Featured_Launch_→-FF6154?style=flat-square&logo=producthunt&logoColor=white)](https://www.producthunt.com/products/mj-x?embed=true&amp;utm_source=embed&amp;utm_medium=post_embed)
 
 <br/>
 
