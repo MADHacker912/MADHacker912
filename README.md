@@ -41,7 +41,7 @@
 
 ```bash
 $ madhacker --identity
-[INFO] Name: Obito (MADHacker912)
+[INFO] Name: Saksham Gupta (MADHacker912)
 [INFO] Role: Full-Stack Systems Architect & Offensive Security Researcher
 [INFO] Product Hunt Maker: @saksham_gupta22 (Hunter & Maker of MJ-X)
 [INFO] Focus: Autonomous Browser Agents • AST Vulnerability Scanners • Chromium Daemons
@@ -52,7 +52,7 @@ $ madhacker --identity
 - 🛡️ **Offensive Security:** AST-level secrets auditing ([vault-scanner](https://github.com/MADHacker912/vault-scanner)), wireless reconnaissance ([MJ-X](https://github.com/MADHacker912/MJ-X)), and systems exploitation.
 - 🚀 **Full-Stack Systems:** Production TypeScript & Python backends, real-time WebSocket pipelines, and high-FPS WebGL canvases.
 - 🌐 **Canvas Portfolio:** [sakshamgupta.online](https://sakshamgupta.online)
-- 📬 **Direct Inquiries:** [obitogupta05@gmail.com](mailto:obitogupta05@gmail.com)
+- 📬 **Direct Inquiries:** [sakshamguptasg368@gmail.com](mailto:sakshamguptasg368@gmail.com)
 
 ---
 
@@ -236,6 +236,18 @@ $ madhacker --identity
     <img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="Portfolio" />
   </a>
   &nbsp;
+  <a href="https://www.linkedin.com/in/saksham-gupta-9125obito" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://www.producthunt.com/@saksham_gupta22" target="_blank">
+    <img src="https://img.shields.io/badge/Product%20Hunt-Maker%20@saksham__gupta22-FF6154?style=for-the-badge&logo=producthunt&logoColor=white" alt="Product Hunt" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/saksham_gupta" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  &nbsp;
   <a href="https://discord.gg/_obito_gupta_" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
@@ -244,7 +256,11 @@ $ madhacker --identity
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   &nbsp;
-  <a href="mailto:obitogupta05@gmail.com">
+  <a href="https://kaggle.com/saksham_gupta" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
+  </a>
+  &nbsp;
+  <a href="mailto:sakshamguptasg368@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
